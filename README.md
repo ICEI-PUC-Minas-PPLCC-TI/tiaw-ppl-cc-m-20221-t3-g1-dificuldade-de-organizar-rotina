@@ -109,6 +109,15 @@ Fluxo de Usuário:
 
 9. METODOLOGIA
 
+| Ambiente | Plataforma | Link de acesso |
+| ---      | ---         | ---           |
+| Repositório do código fonte | GitHub | |
+| Documentos do projeto | Google Docs | |
+| Projeto de Interface e Wireframes | Figma |  |
+| Gerenciamento do projeto | Trello | |
+
+
+
 Gerenciamento das Funções:
 
 - Scrum Master: Lucca Lopes Cançado
