@@ -146,5 +146,7 @@ https://blog.leucotron.com.br/falta-de-organizacao/
 
 https://blog.trello.com/br/scrum-metodologia-agil
 
-
+DESIGN THINKING - 
+DOCUMENTAÇÃO DO PROJETO -
+APRESENTAÇÃO - 
 
