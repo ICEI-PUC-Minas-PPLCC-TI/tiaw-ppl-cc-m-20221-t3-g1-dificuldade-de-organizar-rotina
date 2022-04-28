@@ -19,24 +19,24 @@ O Organizer vai ser uma plataforma que ajuda as pessoas com dificuldades para se
 
     Diante da pandemia, um dos principais problemas observados nas pessoas diariamente foi a dificuldade de organizar a rotina de acordo com as demandas do trabalho e do estudo tanto nas escolas e universidades, com ocorrências de pessoas sendo demitidas de seus empregos por sua ineficiência de organização ou até mesmo a formação de alunos preguiçosos pelas atividades online e diversas formas de se colar a internet. Diante disso, com a volta das práticas presenciais é preciso trabalhar com a organização da rotina dessas pessoas que ficaram tanto tempo desacostumadas com o padrão.
 
-     2.Problema
+2.Problema
      
 O  principal problema que será abordado consequentemente solucionado pelo nosso grupo é a dificuldade dos estudantes ao organizar sua rotina, tanto conciliando a rotina de estudo com a de trabalho, ou com a de lazer, etc.
 
- 3.Objetivos
+3.Objetivos
  
              O objetivo do nosso grupo é criar uma plataforma capaz de atender as diversas dificuldades que as pessoas enfrentam na área de organizar a rotina. Com pesquisas e os padrões nos diversos estilos de vida iremos focar naqueles que apresentam uma maior dificuldade no dia a dia e fornecer instrumentos para a construção de uma rotina eficiente.
 
 
- 4.Justificativa
+4.Justificativa
  
     A organização é uma habilidade essencial para diversas atividades escolares e de trabalho também, e de acordo com o blog “leucotron”, a falta da produtividade é totalmente ligada a falta de organização, e por isso, no nosso trabalho estamos tentando minimizar esse problema e para algumas pessoas até resolvê-lo.
 
-   5. Público alvo
+5. Público alvo
    
        O público alvo do grupo serão os estudantes em geral, de escolas e universidades, que identificamos como os que mais necessitam dessa ferramenta pela mudança do online para o semi-presencial/presencial.
-
-   6. Especificações do projeto
+       
+6. Especificações do projeto
    
 
 Histórias de Usuários:
@@ -47,7 +47,7 @@ Histórias de Usuários:
          THIAGO - Thiago tem problemas para dormir, nunca conseguiu regular seu sono, possui insônia. Durante o seu dia ele permanece muito cansado e tenta tirar sonecas em qualquer oportunidade, dificultando a realização de suas atividades escolares. Deseja: uma forma de organizar o seu tempo de sono.
 
 
-   7. Requisitos
+7. Requisitos
    
 
  Requisitos Funcionais:
