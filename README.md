@@ -111,9 +111,9 @@ Fluxo de Usuário:
 
 | Ambiente | Plataforma | Link de acesso |
 | ---      | ---         | ---           |
-| Repositório do código fonte | GitHub | |
-| Documentos do projeto | Google Docs |https://docs.google.com/document/d/1fJeHB-Z7DwNZ04uET3haY2rSyDzSc4UhD7-S9qaZ-Wg/edit |
-| Projeto de Interface e Wireframes | Figma |  |
+| Repositório do código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/edit/master/README.md |
+| Documentos do projeto | Google Docs | https://docs.google.com/document/d/1fJeHB-Z7DwNZ04uET3haY2rSyDzSc4UhD7-S9qaZ-Wg/edit |
+| Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/U9wneTPuEI7iaZ4AymNiLO/SITE?node-id=0%3A1 |
 
 
 
