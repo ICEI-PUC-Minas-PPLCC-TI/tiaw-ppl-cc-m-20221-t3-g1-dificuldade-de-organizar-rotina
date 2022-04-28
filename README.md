@@ -75,4 +75,9 @@ Restrições:
 2 - Projeto passado e revisado no Trello
 3- Reuniões diárias do grupo
 
+8. PROJETO DE INTERFACE
+
+Wireframe:
+![wireframe](https://user-images.githubusercontent.com/104526449/165858162-bfec7d80-ba5d-40b3-a919-a8d20a0c62ad.png)
+
 
