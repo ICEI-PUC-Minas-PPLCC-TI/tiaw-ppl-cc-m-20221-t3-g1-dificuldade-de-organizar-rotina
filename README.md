@@ -114,6 +114,7 @@ Quadro de Tarefas Kanban:
 
 
 https://blog.leucotron.com.br/falta-de-organizacao/
+
 https://blog.trello.com/br/scrum-metodologia-agil
 
 
