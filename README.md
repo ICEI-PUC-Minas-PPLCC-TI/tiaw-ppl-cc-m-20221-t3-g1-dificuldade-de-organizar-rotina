@@ -40,7 +40,27 @@ O  principal problema que será abordado consequentemente solucionado pelo nosso
        O público alvo do grupo serão os estudantes em geral, de escolas e universidades, que identificamos como os que mais necessitam dessa ferramenta pela mudança do online para o semi-presencial/presencial.
        
 6. ESPECIFICAÇÕES DO PROJETO
-   
+
+Personas:
+
+![lucas](https://user-images.githubusercontent.com/104526449/165862252-c876fda1-860d-49f8-876e-4779d6c3add4.png)
+
+
+![larissa](https://user-images.githubusercontent.com/104526449/165862259-99717806-ebe8-4921-aed7-f5fd70d89080.png)
+
+
+
+![thiago](https://user-images.githubusercontent.com/104526449/165862265-b1a6fab7-bacf-42a0-bb4a-cb6b69c3ca7c.png)
+
+Mapas de Empatia:
+
+![mapa lucas](https://user-images.githubusercontent.com/104526449/165862306-06a8014f-41c2-4246-a00e-4c08bd40fc9d.png)
+
+![mapa larissa](https://user-images.githubusercontent.com/104526449/165862311-e8aafaf1-ee13-4668-b916-913547f46606.png)
+
+
+
+![mapa thiago](https://user-images.githubusercontent.com/104526449/165862325-62cf8472-17a0-4fbe-9dd5-7507cab5376d.png)
 
 Histórias de Usuários:
 
