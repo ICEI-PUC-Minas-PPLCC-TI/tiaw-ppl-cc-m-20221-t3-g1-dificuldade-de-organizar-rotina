@@ -114,7 +114,7 @@ Fluxo de Usuário:
 | Repositório do código fonte | GitHub | |
 | Documentos do projeto | Google Docs |https://docs.google.com/document/d/1fJeHB-Z7DwNZ04uET3haY2rSyDzSc4UhD7-S9qaZ-Wg/edit |
 | Projeto de Interface e Wireframes | Figma |  |
-| Gerenciamento do projeto | Trello | |
+
 
 
 
