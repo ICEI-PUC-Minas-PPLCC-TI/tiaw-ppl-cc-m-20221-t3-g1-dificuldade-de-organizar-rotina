@@ -148,7 +148,19 @@ https://blog.trello.com/br/scrum-metodologia-agil
 
 DESIGN THINKING - 
 
+[PPLCC-M - T3-G1 - Dificuldade em organizar a rotina.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/8587310/PPLCC-M.-.T3-G1.-.Dificuldade.em.organizar.a.rotina.pdf)
+
+
+
 DOCUMENTAÇÃO DO PROJETO -
 
-APRESENTAÇÃO - 
+[Tiaw - Documentação do Trabalho.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/8587311/Tiaw.-.Documentacao.do.Trabalho.pdf)
+
+
+APRESENTAÇÃO -
+
+[Rotina.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/8587312/Rotina.pdf)
+
+
+
 
