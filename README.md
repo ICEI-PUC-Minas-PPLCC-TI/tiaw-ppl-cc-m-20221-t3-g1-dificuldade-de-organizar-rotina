@@ -78,6 +78,43 @@ Restrições:
 8. PROJETO DE INTERFACE
 
 Wireframe:
+
 ![wireframe](https://user-images.githubusercontent.com/104526449/165858162-bfec7d80-ba5d-40b3-a919-a8d20a0c62ad.png)
+
+Fluxo de Usuário:
+
+
+![fluxo usuario](https://user-images.githubusercontent.com/104526449/165858387-abc283cd-6822-4a07-adbe-ab344573187e.png)
+
+
+9. METODOLOGIA
+
+Gerenciamento das Funções:
+
+- Scrum Master: Lucca Lopes Cançado
+- Product Owner: Matheus Felipe Santa Rita 
+
+Equipe de Desenvolvimento:
+
+- Matheus Felipe Santa Rita(Desenvolvedor Front-End, Analista de Negócios)
+- Maria Julia Tavares Facury(Desenvolvedora Front-End)
+- Lucca Lopes Cançado(Desenvolvedor Front-end, Designer)
+- Luis Felipe Silva Veloso(Desenvolvedor Front-End)
+
+Trello utilizado pelo grupo: 
+
+https://trello.com/invite/b/ZiPNXB4g/1ca3d2426798ae018ba7194c40b8a675/quadro-de-controle-de-tarefas
+
+Quadro de Tarefas Kanban:
+
+
+![kanban](https://user-images.githubusercontent.com/104526449/165859148-f62470d9-2211-4955-921f-392882992e57.png)
+
+10. REFERÊNCIAS:
+
+
+https://blog.leucotron.com.br/falta-de-organizacao/
+https://blog.trello.com/br/scrum-metodologia-agil
+
 
 
