@@ -137,7 +137,10 @@ Fluxo de Usuário:
 | Documentos do projeto | Google Docs | https://docs.google.com/document/d/1fJeHB-Z7DwNZ04uET3haY2rSyDzSc4UhD7-S9qaZ-Wg/edit |
 | Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/U9wneTPuEI7iaZ4AymNiLO/SITE?node-id=0%3A1 |
 | Gerenciamento do projeto| Trello | https://trello.com/invite/b/ZiPNXB4g/1ca3d2426798ae018ba7194c40b8a675/quadro- de-controle-de-tarefas|
+| Pesquisa | Miro |https://miro.com/app/board/uXjVOBuGoRM=/
 
+
+A metodologia que nós usamos é o Scrum, usamos o Discord para as reuniões, e usaremos o Trello para dividir as tarefas.Os arquivos são mantidos no Google Drive, para arquivos de edição síncrona, e o resto é mantido no GitHub através do GitHub Classroom .Nossa pesquisa foi feita pela estratégia de Design Thinking, usando o Miro como ferramenta, e nossas entrevistas foram feitas através de um formulário do Google Forms. Os Wireframes foram feitos através do Figma e o User Flow através do Wireflow.
 
 
 Gerenciamento das Funções:
@@ -172,7 +175,6 @@ https://blog.trello.com/br/scrum-metodologia-agil
 DESIGN THINKING - 
 
 [PPLCC-M - T3-G1 - Dificuldade em organizar a rotina.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/8587310/PPLCC-M.-.T3-G1.-.Dificuldade.em.organizar.a.rotina.pdf)
-
 
 
 DOCUMENTAÇÃO DO PROJETO -
