@@ -7,8 +7,9 @@ O Organizer vai ser uma plataforma que ajuda as pessoas com dificuldades para se
 
 * Luis Felipe Silva Veloso
 * Lucca Lopes Cançado
-* Maria Julia Tavares Facury
+* Ji Xinyi
 * Matheus Felipe Santa Rita
+* João Pedro Nascimento Fernandes
 
 ## Professores responsáveis
 
@@ -20,24 +21,24 @@ O Organizer vai ser uma plataforma que ajuda as pessoas com dificuldades para se
 
 1. INTRODUÇÃO
 
-    Diante da pandemia, um dos principais problemas observados nas pessoas diariamente foi a dificuldade de organizar a rotina de acordo com as demandas do trabalho e do estudo tanto nas escolas e universidades, com ocorrências de pessoas sendo demitidas de seus empregos por sua ineficiência de organização ou até mesmo a formação de alunos preguiçosos pelas atividades online e diversas formas de se colar a internet. Diante disso, com a volta das práticas presenciais é preciso trabalhar com a organização da rotina dessas pessoas que ficaram tanto tempo desacostumadas com o padrão.
+    Diante da pandemia, um dos principais problemas observados nas pessoas diariamente foi a dificuldade de organizar a rotina de acordo com as demandas do trabalho e do estudo tanto nas escolas e universidades com ocorrências de pessoas sendo demitidas de seus empregos por sua ineficiência de organização ou até mesmo a formação de alunos preguiçosos pelas atividades online e diversas formas de se colar a internet. Diante disso, com a volta das práticas presenciais é preciso trabalhar com a organização da rotina dessas pessoas que ficaram tanto tempo desacostumadas com o padrão.
 
 2. PROBLEMA
      
-O  principal problema que será abordado consequentemente solucionado pelo nosso grupo é a dificuldade dos estudantes ao organizar sua rotina, tanto conciliando a rotina de estudo com a de trabalho, ou com a de lazer, etc.
+O principal problema que será abordado consequentemente solucionado pelo nosso grupo é a dificuldade dos estudantes ao organizar sua rotina de acordo com a perspectiva de pandemia com o estudo online, semi-presencial e presencial. O que pode provar essa difculdade é a pesquisa realizada pela Associação Brasileira de Educação a Distância (EBED) sobre atividades remotas onde 67% dos alunos reclamam de dificuldade em estabelecer uma rotina diária de estudos.
 
 3. OBJETIVOS
  
-             O objetivo do nosso grupo é criar uma plataforma capaz de atender as diversas dificuldades que as pessoas enfrentam na área de organizar a rotina. Com pesquisas e os padrões nos diversos estilos de vida iremos focar naqueles que apresentam uma maior dificuldade no dia a dia e fornecer instrumentos para a construção de uma rotina eficiente.
+            O objetivo do nosso grupo é criar uma plataforma capaz de atender as diversas dificuldades que as pessoas enfrentam na área de organizar a rotina. Com pesquisas e os padrões nos diversos estilos de vida iremos focar naqueles que apresentam uma maior dificuldade no dia a dia e fornecer instrumentos para a construção de uma rotina eficiente.
 
 
 4. JUSTIFICATIVA
  
-    A organização é uma habilidade essencial para diversas atividades escolares e de trabalho também, e de acordo com o blog “leucotron”, a falta da produtividade é totalmente ligada a falta de organização, e por isso, no nosso trabalho estamos tentando minimizar esse problema e para algumas pessoas até resolvê-lo.
+   O objetivo do nosso grupo é criar uma plataforma capaz de atender as diversas dificuldades que as pessoas enfrentam na área de organizar a rotina. Com pesquisas e os padrões nos diversos estilos de vida iremos focar naqueles que apresentam uma maior dificuldade no dia a dia e fornecer instrumentos para a construção de uma rotina eficiente.
 
 5. PÚBLICO ALVO
    
-       O público alvo do grupo serão os estudantes em geral, de escolas e universidades, que identificamos como os que mais necessitam dessa ferramenta pela mudança do online para o semi-presencial/presencial.
+       O público alvo do grupo serão os estudantes em geral, de escolas e universidades, principalmente aqueles que possuem o dia a dia corrido e desorganizado e desejam evoluir e trabalhar de modo confortável aos seus problemas que identificamos como os que mais necessitam dessa ferramenta, para estudantes do esino a distância, semi-presencial e presencial.
        
 6. ESPECIFICAÇÕES DO PROJETO
 
@@ -64,6 +65,18 @@ Mapas de Empatia:
 
 Histórias de Usuários:
 
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
+
+| Eu como …  [PERSONA] | … quero/desejo … | [O QUE]	… para ....[POR QUE] |
+| ---                  | ---              | ---                          |
+Lucas|	 Quero deixar de procrastinar	|Se organizar melhor no dia a dia e realizar as atividades corretamente sem atraso
+Lucas	|Quero ter mecanismos de apoio de organização de acordo com minha demanda|	Uma boa estrutura chama mais atenção e incentiva a se organizar
+Larissa|	Quero deixar de ser sobrecarregada|	Ter tempo para realizar as suas atividades no dia
+Larissa|	Quero dicas para descobrir como organizar seu dia melhor|	Quer fazer varias atividades no dia mas não sabe como
+Thiago|	Quero ter uma regulamentação de sono boa|	Possui sono irregular devido a péssima organização
+Thiago|	Quero um site acessível no celular para organizar minha rotina|	A disponibilidade no celular facilita o uso no dia a dia
+
+
          LUCAS - Lucas no primeiro ano de pandemia deixou de lado todas as suas atividades escolares devido a sua personalidade preguiçosa. Hoje ele virou uma pessoa procrastinadora, deixa todas as suas atividades para fazer de última hora e quase sempre deixa de fazer suas atividades e prioriza o seu tempo de lazer. Deseja: se organizar e deixar de procrastinar.
          LARISSA - Larissa é uma pessoa que foca muito na suas atividades, até além de suas capacidades, como ela é uma pessoa estudiosa e que tem um trabalho, acaba acumulando muitas atividades e não consegue organizar o seu dia a dia para fazer tudo o que quer e precisa. Deseja: uma forma de organizar todas as suas tarefas.
          
@@ -73,27 +86,36 @@ Histórias de Usuários:
 7. REQUISITO
    
 
- Requisitos Funcionais:
-1- Menu funcional com diversas opções de organização Prioridade = Alta
-2- Quadro de objetivos e metas Prioridade = Alta
-3- Calendário e agenda de organização Prioridade = Alta
-4- Grade horária do dia para organizar a rotina Prioridade = Alta
-5- Planos de organização prontos para o usuário Prioridade = Alta 
-6- Planos de organização feitos com base na necessidade dos usuários Prioridade = Alta
-7- Comunicação com profissionais Prioridade = Alta
-8- Comunicação com os criadores da aplicação para o feedback Prioridade = Média
+Requisitos Funcionais. A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-Requisitos Não-Funcionais:
-1- Responsividade do site Prioridade = Alta
-2- Site simples com fácil entendimento Prioridade = Alta
-3- Compatibilidade com os browsers Prioridade = Média
-4- Tutorial de uso do site Prioridade = Alta
+ID  | Descrição | Prioridade |
+|---| ---       | ---        |
+RF-01|	Fornecer o recurso de criação e uso do seu próprio perfil|	Alta
+RF-02|	Na página principal fornecer mecanismos de locomoção pela aplicação de fácil entendimento|	Média
+RF-03|	A aplicação deve oferecer o recurso de marcar eventos em uma agenda|	Alta
+RF-04|	A aplicação deve oferecer orientações para o usuário criar sua própria rotina |	Média
+RF-05|	A aplicação deve oferecer templates de rotinas para uma organização leve, média e pesada para o usuário|	Baixa
+RF-06|	A aplicação deve oferecer uma boa estrutura para o usuário organizar sua rotina do dia a dia|	Alta
 
-Restrições:
-1- Site feito em HTML,CSS e Javascript
-2- Deve apresentar o básico de Front-end
-2 - Projeto passado e revisado no Trello
-3- Reuniões diárias do grupo
+
+Requisitos Não-Funcionais. A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
+ID | Descrição | Prioridade |
+|---| ---       | ---        |
+RNF-01|	O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);|	Alta
+RNF-02|	O site deverá ser responsivo permitindo a visualização em um celular de forma adequada|	Alta
+RNF-03|	O site deve ter bom nível de contraste entre os elementos da tela em conformidade|	Média
+RNF-04|	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)|	Alta
+
+
+Restrições .As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir:
+
+ID|	Descrição|
+|-|---       |
+RE-01|O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2022.
+RE-02|O aplicativo deve se restringir às tecnologias básicas da Web no Frontend
+RE-03|A equipe não pode subcontratar o desenvolvimento do trabalho.
+
 
 8. PROJETO DE INTERFACE
 
@@ -114,7 +136,7 @@ Fluxo de Usuário:
 | Repositório do código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/edit/master/README.md |
 | Documentos do projeto | Google Docs | https://docs.google.com/document/d/1fJeHB-Z7DwNZ04uET3haY2rSyDzSc4UhD7-S9qaZ-Wg/edit |
 | Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/U9wneTPuEI7iaZ4AymNiLO/SITE?node-id=0%3A1 |
-
+| Gerenciamento do projeto| Trello | https://trello.com/invite/b/ZiPNXB4g/1ca3d2426798ae018ba7194c40b8a675/quadro- de-controle-de-tarefas|
 
 
 
@@ -126,9 +148,10 @@ Gerenciamento das Funções:
 Equipe de Desenvolvimento:
 
 - Matheus Felipe Santa Rita(Desenvolvedor Front-End, Analista de Negócios)
-- Maria Julia Tavares Facury(Desenvolvedora Front-End)
+- Ji Xinyi (Desenvolvedora Front-End)
 - Lucca Lopes Cançado(Desenvolvedor Front-end, Designer)
 - Luis Felipe Silva Veloso(Desenvolvedor Front-End)
+- João Pedro Nascimento Fernandes
 
 Trello utilizado pelo grupo: 
 
