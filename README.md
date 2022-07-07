@@ -136,7 +136,7 @@ Fluxo de Usuário:
 | Repositório do código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/edit/master/README.md |
 | Documentos do projeto | Google Docs | https://docs.google.com/document/d/1fJeHB-Z7DwNZ04uET3haY2rSyDzSc4UhD7-S9qaZ-Wg/edit |
 | Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/U9wneTPuEI7iaZ4AymNiLO/SITE?node-id=0%3A1 |
-| Gerenciamento do projeto| Trello | https://trello.com/invite/b/ZiPNXB4g/1ca3d2426798ae018ba7194c40b8a675/quadro- de-controle-de-tarefas|
+| Gerenciamento do projeto| Trello | https://trello.com/invite/b/ZiPNXB4g/1ca3d2426798ae018ba7194c40b8a675/quadro-de-controle-de-tarefas|
 | Pesquisa | Miro |https://miro.com/app/board/uXjVOBuGoRM=/
 
 
@@ -156,14 +156,16 @@ Equipe de Desenvolvimento:
 - Luis Felipe Silva Veloso(Desenvolvedor Front-End)
 - João Pedro Nascimento Fernandes
 
+
+
 Trello utilizado pelo grupo: 
 
 https://trello.com/invite/b/ZiPNXB4g/1ca3d2426798ae018ba7194c40b8a675/quadro-de-controle-de-tarefas
 
-Quadro de Tarefas Kanban:
+Quadro de Tarefas Kanban utilizado pelo grupo durante as reuniões:
 
 
-![kanban](https://user-images.githubusercontent.com/104526449/165859148-f62470d9-2211-4955-921f-392882992e57.png)
+![image](https://user-images.githubusercontent.com/104070720/177887431-e8bbc1ca-e6de-47f1-bd7d-995c0495f58f.png)
 
 10. REFERÊNCIAS:
 
