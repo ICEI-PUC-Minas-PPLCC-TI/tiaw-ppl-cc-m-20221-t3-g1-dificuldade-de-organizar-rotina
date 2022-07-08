@@ -116,8 +116,23 @@ RE-01|O projeto deverá ser entregue no final do semestre letivo, não podendo e
 RE-02|O aplicativo deve se restringir às tecnologias básicas da Web no Frontend
 RE-03|A equipe não pode subcontratar o desenvolvimento do trabalho.
 
+8.Site funcional
 
-8. PROJETO DE INTERFACE
+Cadastro de perfil:
+
+Login de perfil:
+
+Pagina inicial:
+
+Tela sobre nós:
+
+Agenda de eventos:
+
+lista de tarefas:
+
+Tela de dicas de organização:
+
+9. PROJETO DE INTERFACE
 
 Wireframe:
 
@@ -129,7 +144,7 @@ Fluxo de Usuário:
 ![fluxo usuario](https://user-images.githubusercontent.com/104526449/165858387-abc283cd-6822-4a07-adbe-ab344573187e.png)
 
 
-9. METODOLOGIA
+10. METODOLOGIA
 
 | Ambiente | Plataforma | Link de acesso |
 | ---      | ---         | ---           |
@@ -167,7 +182,7 @@ Quadro de Tarefas Kanban utilizado pelo grupo durante as reuniões:
 
 ![image](https://user-images.githubusercontent.com/104070720/177887431-e8bbc1ca-e6de-47f1-bd7d-995c0495f58f.png)
 
-10. REFERÊNCIAS:
+11. REFERÊNCIAS:
 
 
 https://blog.leucotron.com.br/falta-de-organizacao/
