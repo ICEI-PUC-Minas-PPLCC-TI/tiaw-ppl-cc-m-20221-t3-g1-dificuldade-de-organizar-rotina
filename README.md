@@ -119,17 +119,31 @@ RE-03|A equipe não pode subcontratar o desenvolvimento do trabalho.
 
 Cadastro de perfil:
 
+![cadastro](https://user-images.githubusercontent.com/104070720/177902016-6388c11c-af2a-4869-9738-2d655dcd7090.png)
+
 Login de perfil:
+
+![login](https://user-images.githubusercontent.com/104070720/177902049-f76159db-2572-4e7f-b3d7-ce7612b74740.png)
 
 Pagina inicial:
 
+![pagina inicial](https://user-images.githubusercontent.com/104070720/177902082-dc838a70-d7ea-4b3b-972c-bab60074b8ba.png)
+
 Tela sobre nós:
+
+![tela informação sobre nos](https://user-images.githubusercontent.com/104070720/177902106-5e7cf931-8f54-4b3e-a4f6-853539491db5.png)
 
 Agenda de eventos:
 
+![agenda de eventos](https://user-images.githubusercontent.com/104070720/177902121-a20a06bf-5fa9-4e21-ad0e-01f08c35d153.png)
+
 lista de tarefas:
 
+![listas de tarefas](https://user-images.githubusercontent.com/104070720/177902153-679e672c-c2cf-499b-af90-6f19318ac57f.png)
+
 Tela de dicas de organização:
+
+![cards](https://user-images.githubusercontent.com/104070720/177902175-dea84f1d-36c4-4c33-b8ad-b74e5e5c6b01.png)
 
 9. PROJETO DE INTERFACE
 
@@ -141,6 +155,13 @@ Fluxo de Usuário:
 
 
 ![fluxo usuario](https://user-images.githubusercontent.com/104526449/165858387-abc283cd-6822-4a07-adbe-ab344573187e.png)
+
+
+Funcionalidades:
+
+A aplicação é completamente funcional, apresentando primeiro a tela de cadastro onde o usuário vai cadastrar o seu perfil que será salvo no local storage, o usuário pode acessar seu perfil onde terá acesso a estrutura da aplicação.
+
+O usuário poderá salvar eventos na tela de agenda, salvar as tarefas diárias na tela de lista de tarefas e caso precise de ajude possui uma página de cards com orientações básicas de como organizar sua própria rotina, oferecendo um ambiente harmonioso para a utilização
 
 
 10. METODOLOGIA
@@ -165,7 +186,6 @@ Gerenciamento das Funções:
 Equipe de Desenvolvimento:
 
 - Matheus Felipe Santa Rita(Desenvolvedor Front-End, Analista de Negócios)
-- Ji Xinyi (Desenvolvedora Front-End)
 - Lucca Lopes Cançado(Desenvolvedor Front-end, Designer)
 - Luis Felipe Silva Veloso(Desenvolvedor Front-End)
 - João Pedro Nascimento Fernandes
@@ -195,12 +215,14 @@ DESIGN THINKING -
 
 DOCUMENTAÇÃO DO PROJETO -
 
-[Tiaw - Documentação do Trabalho.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/8587311/Tiaw.-.Documentacao.do.Trabalho.pdf)
+[Tiaw - Documentação do Trabalho (1).pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/9068360/Tiaw.-.Documentacao.do.Trabalho.1.pdf)
+
 
 
 APRESENTAÇÃO -
 
-[Rotina.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/8587312/Rotina.pdf)
+[Organizer.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g1-dificuldade-de-organizar-rotina/files/9068353/Organizer.pdf)
+
 
 CÓDIGO DO SITE -
 
