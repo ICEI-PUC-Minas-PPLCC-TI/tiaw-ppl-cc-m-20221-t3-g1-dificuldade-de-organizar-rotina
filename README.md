@@ -145,6 +145,12 @@ Tela de dicas de organização:
 
 ![cards](https://user-images.githubusercontent.com/104070720/177902175-dea84f1d-36c4-4c33-b8ad-b74e5e5c6b01.png)
 
+Funcionalidades:
+
+A aplicação é completamente funcional, apresentando primeiro a tela de cadastro onde o usuário vai cadastrar o seu perfil que será salvo no local storage, o usuário pode acessar seu perfil onde terá acesso a estrutura da aplicação.
+
+O usuário poderá salvar eventos na tela de agenda, salvar as tarefas diárias na tela de lista de tarefas e caso precise de ajude possui uma página de cards com orientações básicas de como organizar sua própria rotina, oferecendo um ambiente harmonioso para a utilização
+
 9. PROJETO DE INTERFACE
 
 Wireframe:
@@ -156,12 +162,6 @@ Fluxo de Usuário:
 
 ![fluxo usuario](https://user-images.githubusercontent.com/104526449/165858387-abc283cd-6822-4a07-adbe-ab344573187e.png)
 
-
-Funcionalidades:
-
-A aplicação é completamente funcional, apresentando primeiro a tela de cadastro onde o usuário vai cadastrar o seu perfil que será salvo no local storage, o usuário pode acessar seu perfil onde terá acesso a estrutura da aplicação.
-
-O usuário poderá salvar eventos na tela de agenda, salvar as tarefas diárias na tela de lista de tarefas e caso precise de ajude possui uma página de cards com orientações básicas de como organizar sua própria rotina, oferecendo um ambiente harmonioso para a utilização
 
 
 10. METODOLOGIA
