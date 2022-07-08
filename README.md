@@ -7,7 +7,6 @@ O Organizer vai ser uma plataforma que ajuda as pessoas com dificuldades para se
 
 * Luis Felipe Silva Veloso
 * Lucca Lopes Cançado
-* Ji Xinyi
 * Matheus Felipe Santa Rita
 * João Pedro Nascimento Fernandes
 
